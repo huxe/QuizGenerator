@@ -1,0 +1,13 @@
+E:\quiz\QuizGenerator\QuizGenerator\bin\Debug\QuizGenerator.exe.config
+E:\quiz\QuizGenerator\QuizGenerator\bin\Debug\QuizGenerator.exe
+E:\quiz\QuizGenerator\QuizGenerator\bin\Debug\QuizGenerator.pdb
+E:\quiz\QuizGenerator\QuizGenerator\obj\Debug\QuizGenerator.csprojResolveAssemblyReference.cache
+E:\quiz\QuizGenerator\QuizGenerator\obj\Debug\QuizGenerator.Properties.Resources.resources
+E:\quiz\QuizGenerator\QuizGenerator\obj\Debug\QuizGenerator.csproj.GenerateResource.Cache
+E:\quiz\QuizGenerator\QuizGenerator\obj\Debug\QuizGenerator.exe
+E:\quiz\QuizGenerator\QuizGenerator\obj\Debug\QuizGenerator.pdb
+E:\quiz\QuizGenerator\QuizGenerator\obj\Debug\QuizGenerator.frmHome.resources
+E:\quiz\QuizGenerator\QuizGenerator\obj\Debug\QuizGenerator.selectQuiz.resources
+E:\quiz\QuizGenerator\QuizGenerator\obj\Debug\QuizGenerator.Math.resources
+E:\quiz\QuizGenerator\QuizGenerator\obj\Debug\QuizGenerator.pakistanstudies.resources
+E:\quiz\QuizGenerator\QuizGenerator\obj\Debug\QuizGenerator.english.resources

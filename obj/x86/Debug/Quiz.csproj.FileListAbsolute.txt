@@ -1,0 +1,15 @@
+C:\Users\dell\Desktop\Quiz\Quiz\bin\Debug\Quiz.exe
+C:\Users\dell\Desktop\Quiz\Quiz\bin\Debug\Quiz.pdb
+C:\Users\dell\Desktop\Quiz\Quiz\obj\x86\Debug\Quiz.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\Quiz\Quiz\obj\x86\Debug\Quiz.english.resources
+C:\Users\dell\Desktop\Quiz\Quiz\obj\x86\Debug\Quiz.Form1.resources
+C:\Users\dell\Desktop\Quiz\Quiz\obj\x86\Debug\Quiz.generalknowledge.resources
+C:\Users\dell\Desktop\Quiz\Quiz\obj\x86\Debug\Quiz.Math.resources
+C:\Users\dell\Desktop\Quiz\Quiz\obj\x86\Debug\Quiz.pakstudies.resources
+C:\Users\dell\Desktop\Quiz\Quiz\obj\x86\Debug\Quiz.Properties.Resources.resources
+C:\Users\dell\Desktop\Quiz\Quiz\obj\x86\Debug\Quiz.Questions.resources
+C:\Users\dell\Desktop\Quiz\Quiz\obj\x86\Debug\Quiz.csproj.GenerateResource.Cache
+C:\Users\dell\Desktop\Quiz\Quiz\obj\x86\Debug\Quiz.exe
+C:\Users\dell\Desktop\Quiz\Quiz\obj\x86\Debug\Quiz.pdb
+E:\Quiz\obj\x86\Debug\Quiz.exe
+E:\Quiz\obj\x86\Debug\Quiz.pdb
